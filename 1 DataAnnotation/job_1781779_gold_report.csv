@@ -1,0 +1,11 @@
+_id,_pct_missed,_judgments,_hidden,_contention,_pct_contested,_gold_pool,_review_state,_added_by,_created_at,_is_an_healthy_image,is_an_healthy_image_gold,is_an_healthy_image_gold_reason,hosted_image,label
+3043675601,0.00,0,false,"",0,,,created,5/22/2021 16:45:40,"",pneumonia,"",https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5cad75ca_img276-im1002-1299/img276-im1002-1299.jpeg,
+3043675646,0.00,0,false,"",0,,,created,5/22/2021 16:45:51,"",normal,"",https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5cad75ec_img688-im1002-2584/img688-im1002-2584.jpeg,
+3043675651,0.00,0,false,"",0,,,created,5/22/2021 16:45:58,"",other,"",https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5cad75cd_img341-im1002-1577/img341-im1002-1577.jpeg,
+3043675674,0.00,0,false,"",0,,,created,5/22/2021 16:46:18,"",unknow,"",https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5cad808d_img-im-0936-0001/img-im-0936-0001.jpeg,
+3043675686,0.00,0,false,"",0,,,created,5/22/2021 16:46:37,"","normal
+unknow",Seems normal but is a poor image,https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5cad8066_img-0285/img-0285.jpeg,
+3043675697,0.00,0,false,"",0,,,created,5/22/2021 16:47:03,"",pneumonia,"",https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5cad75e1_img357-im1002-1640/img357-im1002-1640.jpeg,
+3043675702,0.00,0,false,"",0,,,created,5/22/2021 16:47:11,"",other,"",https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5cad75da_img458-im1002-1952/img458-im1002-1952.jpeg,
+3043675718,0.00,0,false,"",0,,,created,5/22/2021 16:47:50,"","other
+unknow",Seems he have some vascolite but the image is poor quallity,https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5cad75ce_img661-0101-1245/img661-0101-1245.jpeg,
